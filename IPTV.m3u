@@ -1,6 +1,46 @@
 #EXTM3U
-#EXTINF:-1,MTV
+
+#EXTINF:-1 tvg-id="MTV.lb" group-title="Lebanon",MTV Lebanon (1080p)
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 
-#EXTINF:-1,MBC 1
+#EXTINF:-1 tvg-id="AlJadeed.lb.1" group-title="Lebanon",Al Jadeed (1080p) - Server 1
+http://185.9.2.18/chid_391/mono.m3u8
+
+#EXTINF:-1 tvg-id="AlJadeed.lb.2" group-title="Lebanon",Al Jadeed (720p) - Server 2
+https://samaflix.com:12103/channel7/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="OTV.lb" group-title="Lebanon",OTV Lebanon
+https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8
+
+#EXTINF:-1 tvg-id="FutureTV.lb" group-title="Lebanon",Future TV (1080p)
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC1.1" group-title="MBC",MBC 1 (1080p) - Server 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC1.2" group-title="MBC",MBC 1 (1080p) - Server 2
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC1USA.us" group-title="MBC",MBC 1 USA (1080p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC2.ae" group-title="MBC",MBC 2 (480p)
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC3.ae" group-title="MBC",MBC 3 KSA (1080p)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC4.ae" group-title="MBC",MBC 4 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC5.ae" group-title="MBC",MBC 5 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="Disney",Disney Channel East
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" group-title="Disney",Disney Junior East
+https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.us" group-title="Disney",Disney XD West (720p)
+https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
