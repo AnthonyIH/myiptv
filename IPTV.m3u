@@ -1,40 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="MTV.lb",MTV Lebanon (1080p)
+#EXTINF:-1 tvg-id="MTV.lb",MTV Lebanonss
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlJadeed.lb.1",Al Jadeed (1080p)
+#EXTINF:-1 tvg-id="AlJadeed.lb.1",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
 
 #EXTINF:-1 tvg-id="OTV.lb",OTV Lebanon
 https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8
 
-#EXTINF:-1 tvg-id="FutureTV.lb",Future TV (1080p)
+#EXTINF:-1 tvg-id="FutureTV.lb",Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC1.1",MBC 1 (1080p) - Server 1
+#EXTINF:-1 tvg-id="MBC1.1",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 tvg-id="MBC1USA.us",MBC 1 USA (1080p)
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC2.ae",MBC 2 (480p)
+#EXTINF:-1 tvg-id="MBC2.ae",MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 
-#EXTINF:-1 tvg-id="MBC3.ae",MBC 3 KSA (1080p)
+#EXTINF:-1 tvg-id="MBC3.ae",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 
-#EXTINF:-1 tvg-id="MBC4.ae",MBC 4 (1080p)
+#EXTINF:-1 tvg-id="MBC4.ae",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 
-#EXTINF:-1 tvg-id="MBC5.ae",MBC 5 (1080p)
+#EXTINF:-1 tvg-id="MBC5.ae",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.us",Disney Channel East
+#EXTINF:-1 tvg-id="DisneyChannel.us",Disney Channel
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.us",Disney Junior East
+#EXTINF:-1 tvg-id="DisneyJunior.us",Disney Junior
 https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us",Disney XD West (720p)
+#EXTINF:-1 tvg-id="DisneyXD.us",Disney XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
