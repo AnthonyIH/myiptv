@@ -1,10 +1,6 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="MTV.lb" group-title="Lebanon",MTV Lebanon (1080p)
+#EXTINF:-1,MTV
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC1.1" group-title="MBC",MBC 1 (1080p) - Server 1
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyXD.us" group-title="Disney",Disney XD West (720p)
-https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1,MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
