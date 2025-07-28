@@ -45,3 +45,7 @@ https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.us" group-title="General",Disney XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyF1" group-title="Sports", Sky Sports F1
+https://streami.su/watch/sky-sports-f1-sky-f1/alpha/1
+
