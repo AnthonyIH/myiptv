@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-id="MTV.lb.1" group-title="General",MTV Lebanon
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTV.lb.1" group-title="General",MTV Lebanon 2
+#EXTINF:-1 tvg-id="MTV.lb.1" group-title="General",MTV Lebanon (auto quality)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
-https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=D7kzJaJYtysUSYvUj4y-8w:3Kq1WYu6-SaYtYFO6_jV3egIXKBgsbhBsTKBZSEo1p-dBPXLYh3GQ-Z5D0zyErdu6M-CRQCw_XcOIQr-vwK9BKTvYqtn4HuV6e7WU8xRDjzOahjgXjStTE_nbTC_B_OCuamdyK6kXzP3kgCeciDp43m6HGU2vsUSx1rQLUXU32weuFiRz2zBW_sqYkofm48iKnJUS6oj9WyK7koU6XSoqfkhKXKJXq2q3JQs5EMn-T8
+https://hms.pfs.gdn/stream/mtv.m3u8?token=IdbWvFVF1wa7-oh4JsMt6g:gdVpfJjzEetYOzyRLIvVAvAkVs2WCQJZcBwHk66OXKDI2ON8Oj1ds7DYylR_7Kxzmsm1H8G9wRDNwJHXYLP0SAHfFQ1viWJ7HLegpG2-Ty6A5KdVuJPBliOueDGkj_DhGwtoPs-_Kar1To5S27kAjMo_dNWNYP7RXHNNEm_UtDqNr6eiEEQjGilp059OSVYn4eNq0VFZ_v33jAaUz9a0mEAfHkxJHXD_cW6pdZuk4WjA4HRunuFvvmxP-ASk6kBjvQvYta4tpAyTOalPx51TnA
 
 #EXTINF:-1 tvg-id="LBC.lb" group-title="General",LBC International
 https://samaflix.com:12103/channel2/playlist.m3u8
