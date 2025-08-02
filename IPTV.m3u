@@ -9,8 +9,7 @@ https://samaflix.com:12103/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="LBC.lb" group-title="General",LBC International 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
 #EXTVLCOPT:http-referrer=https://www.elahmad.com
-https://games1.elahmad.xyz/tv752_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=d68a5896f9380707594a426a8b7ac7adf7039b72-c36a21d8a675a6c6fe44f382c19afb3a-1754167688-1754156888
-
+https://games1.elahmad.xyz/tv752_www.elahmad.com_lbc/index.m3u8?token=7be3844f1081fc8bf4c2d9d587a762463dbea811-127a1c1a60c3ef0bf2861b652ce506de-1754168077-1754157277
 
 #EXTINF:-1 tvg-id="AlJadeed.lb.1" group-title="General",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
