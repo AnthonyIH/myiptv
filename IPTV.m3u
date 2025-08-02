@@ -6,14 +6,16 @@ https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="LBC.lb" group-title="General",LBC International
 https://samaflix.com:12103/channel2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LBC.lb" group-title="General",LBCI Retry
+#EXTINF:-1 tvg-id="LBC.lb" group-title="General",LBC International 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
 #EXTVLCOPT:http-referrer=https://www.elahmad.com
-https://games1.elahmad.xyz/tv752_www.elahmad.com_lbc/index.m3u8?token=3c6fc205215abf652f0a3e93c8db4b445b0aa6ac-ffd0e73974f640eb3558ea96d51e0e9f-1754168641-1754157841
+https://games1.elahmad.xyz/tv752_www.elahmad.com_lbc/index.m3u8?token=7be3844f1081fc8bf4c2d9d587a762463dbea811-127a1c1a60c3ef0bf2861b652ce506de-1754168077-1754157277
 
-#EXTINF:-1 tvg-id="LBC.lb" group-title="General",LBCI Retry (URL headers)
-https://games1.elahmad.xyz/tv752_www.elahmad.com_lbc/index.m3u8?token=3c6fc205215abf652f0a3e93c8db4b445b0aa6ac-ffd0e73974f640eb3558ea96d51e0e9f-1754168641-1754157841|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0&Referer=https://www.elahmad.com
+#EXTINF:-1 tvg-id="LBC.lb" group-title="General",LBC International 2 (URL headers)
+https://games1.elahmad.xyz/tv752_www.elahmad.com_lbc/index.m3u8?token=3c6fc205215abf652f0a3e93c8db4b445b0aa6ac-ffd0e73974f640eb3558ea96d51e0e9f-1754168641-1754157841|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0&Referer=https://www.elahmad.com/&Origin=https://www.elahmad.com
 
+#EXTINF:-1 tvg-id="LBC.lb" group-title="General",LBC International 2 (variant, URL headers)
+https://games1.elahmad.xyz/tv752_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=REPLACE_ME|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0&Referer=https://www.elahmad.com/&Origin=https://www.elahmad.com
 
 #EXTINF:-1 tvg-id="AlJadeed.lb.1" group-title="General",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
